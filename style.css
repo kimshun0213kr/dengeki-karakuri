@@ -1,21 +1,19 @@
 iframe{
-width: 600px;
-height :371px;
-border : dotted 5px lightgreen;
+    border : dotted 5px lightgreen;
 }
 h1{
-border-bottom: solid 3px #4800ff;
-margin:0 0;
+    border-bottom: solid 3px #4800ff;
+    margin:0 0;
 }
 h2{
-border-bottom: solid 3px #00f0ff;
-margin:0 0;
+    border-bottom: solid 3px #00f0ff;
+    margin:0 0;
 }
 h3{
-border-bottom: solid 3px #8282ff;
-margin:0 0;
+    border-bottom: solid 3px #8282ff;
+    margin:0 0;
 }
 
 a {
-color:deeppink;
+    color:deeppink;
 }
